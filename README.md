@@ -2,9 +2,9 @@
 
 A curated list of the best free static site themes
 
-[Gatsby](#gatsby) | [Hugo](#hugo) |[Jekyll](#jekyll) | [Middleman](#middleman) | [Next](#next) | [Pelican](#pelican)
+[Gatsby](#gatsby) | [Hugo](#hugo) | [Jekyll](#jekyll) | [Next](#next) 
 
-![Gatsby Logo](img/gatsby.png) ![Hugo Logo](img/hugo.png) ![Jekyll Logo](img/jekyll.png) ![Middleman Logo](img/middleman.png) ![Next Logo](img/next.png) ![Pelican Logo](img/pelican.png)
+![Gatsby Logo](img/gatsby.png) ![Hugo Logo](img/hugo.png) ![Jekyll Logo](img/jekyll.png) ![Next Logo](img/next.png) 
 
 ## Gatsby
 
@@ -31,29 +31,13 @@ A curated list of the best free static site themes
 * [Base][base]
 
 
-## Middleman
-
-* [Casper][casper-m]
-* [Codeless][codeless]
-
 ## Next
 
 * [Dimension][dimension]
 * [Forty][forty]
 
-## Pelican
-
-* [Nikhil][nikhil]
-* [mg][mg]
-* [Pelican Clean Blog][cleanblog]
-* [Brutalist][brutalist]
-* [BlueIdea][blueidea]
-* [Attila][attila]
-
 ## Todo
 
-* Remove Pelican
-* Remove Middleman
 * Add Vuepress
 
 ## Deployment
@@ -103,14 +87,6 @@ Create a new Pull Request:
 [jasper2]: https://github.com/jekyller/jasper2
 [tale]: https://github.com/chesterhow/tale
 [base]: https://github.com/CloudCannon/base-jekyll-template
-[casper-m]: https://github.com/danielbayerlein/middleman-casper
-[codeless]: https://github.com/flexbox/codeless
 [dimension]: https://github.com/codebushi/nextjs-starter-dimension
 [forty]: https://github.com/codebushi/nextjs-starter-forty
-[nikhil]: https://github.com/gunchu/nikhil-theme
-[mg]: https://github.com/lucachr/pelican-mg
-[cleanblog]: https://github.com/gilsondev/pelican-clean-blog
-[brutalist]: https://github.com/mamcmanus/brutalist
-[blueidea]: https://github.com/nasskach/pelican-blueidea
-[attila]: https://github.com/arulrajnet/attila
 [mit]: https://tldrlegal.com/license/mit-license
