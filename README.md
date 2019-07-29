@@ -2,9 +2,9 @@
 
 A curated list of the best free static site themes
 
-[Gatsby](#gatsby) | [Hugo](#hugo) | [Jekyll](#jekyll) | [Next](#next) 
+[Gatsby](#gatsby) | [Hugo](#hugo) | [Jekyll](#jekyll) | [Next](#next) | [Vuepress](#vuepress)
 
-![Gatsby Logo](img/gatsby.png) ![Hugo Logo](img/hugo.png) ![Jekyll Logo](img/jekyll.png) ![Next Logo](img/next.png) 
+![Gatsby Logo](img/gatsby.png) ![Hugo Logo](img/hugo.png) ![Jekyll Logo](img/jekyll.png) ![Next Logo](img/next.png) ![Vuepress Logo](img/vuepress.png) 
 
 ## Gatsby
 
@@ -35,6 +35,13 @@ A curated list of the best free static site themes
 
 * [Dimension][dimension]
 * [Forty][forty]
+
+## Vuepress
+
+* [Vuepress-Bulma][vbulma]
+* [Vuepress-Casper][vcasper]
+* [Vuepress-Indigo][vindigo]
+
 
 ## Todo
 
@@ -89,4 +96,7 @@ Create a new Pull Request:
 [base]: https://github.com/CloudCannon/base-jekyll-template
 [dimension]: https://github.com/codebushi/nextjs-starter-dimension
 [forty]: https://github.com/codebushi/nextjs-starter-forty
+[vbulma]: https://github.com/nakorndev/vuepress-theme-bulma
+[vcasper]: https://github.com/alexander-heimbuch/vuepress-theme-casper
+[vindigo]: https://github.com/yscoder/vuepress-theme-indigo
 [mit]: https://tldrlegal.com/license/mit-license
