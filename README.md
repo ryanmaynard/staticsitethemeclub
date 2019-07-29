@@ -50,6 +50,12 @@ A curated list of the best free static site themes
 * [BlueIdea][blueidea]
 * [Attila][attila]
 
+## Todo
+
+* Remove Pelican
+* Remove Middleman
+* Add Vuepress
+
 ## Deployment
 
 Add simple deployment instructions for the following
@@ -61,7 +67,7 @@ Add simple deployment instructions for the following
 ## Contributing
 
 Fork it:
-`https://gitlab.com/ryanmaynard/staticsitethemeclub/fork`
+`https://gitlab.com/ryanmaynard/staticsitethemeclub/-/forks/new`
 
 Create your feature branch:
 `git checkout -b my-new-feature`
@@ -73,7 +79,7 @@ Push to the branch:
 `git push origin my-new-feature`
 
 Create a new Pull Request:
-`https://gitlab.com/ryanmaynard/staticsitethemeclub/compare`
+`https://gitlab.com/ryanmaynard/staticsitethemeclub/merge_requests/new`
 
 
 ## License
