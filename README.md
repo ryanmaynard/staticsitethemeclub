@@ -8,6 +8,10 @@ A curated list of the best free static site themes
 
 ## Gatsby
 
+* [Carbon][carbon]
+* [Emma Portfolio][emma]
+* [Tabor][tabor]
+* [Twentynineteen][twentynineteen]
 
 ## Hugo
 * [Casper][casper]
@@ -45,7 +49,10 @@ A curated list of the best free static site themes
 
 ## Todo
 
-* Add Vuepress
+* Setup directory site
+* Create a checklist for vetting themes
+* Host/mirror the themes referenced
+* Minimally modify themes to be easily deployable for all skillsets (i.e. "Deploy to Netlify")
 
 ## Deployment
 
@@ -79,6 +86,10 @@ Create a new Pull Request:
 
 
 [sstc]: https://staticsitetheme.club
+[carbon]: https://github.com/carbon-design-system/gatsby-theme-carbon
+[emma]: https://github.com/LekoArts/gatsby-starter-portfolio-emma
+[tabor]: https://github.com/zgordon/tabor-gatsby-theme
+[twentynineteen]: https://github.com/zgordon/twentynineteen-gatsby-theme
 [casper]: https://github.com/vjeantet/hugo-theme-casper
 [ghostwriter]: https://github.com/jbub/ghostwriter
 [hyde]: https://github.com/htr3n/hyde-hyde
